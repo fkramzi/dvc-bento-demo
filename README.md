@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DVC Bento Demonstration (In Progress)
 
 This repository demonstrates a machine learning workflow using [DVC](https://dvc.org/) for data version control and [BentoML](https://bentoml.com/) for model serving. The project uses the Titanic dataset to train a logistic regression model to predict passenger survival.
